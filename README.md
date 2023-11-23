@@ -32,3 +32,18 @@
 
 <ul class = "listas">
 <li>Atendimento Especializado</li>
+<li>Barbeiros gostosos</li>
+<li>Com mamadinha, ganha desconto</li>
+  <ul>
+    
+<footer> 
+<p> PARA MAIS INFORMAÇÕES ACESSE NOSSOS CONTATOS: </p>
+<P>@BarbeariaDe_Valk</P>
+<P>Facebook; Barbearia DeValk</P>
+<p> TEL: (42)96666-9999</p>
+
+
+
+                                            
+
+                                                
